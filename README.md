@@ -47,7 +47,6 @@
 
 ### 📫 Reach Me
 
-- 💬 Twitter: [@ChumaMike](https://twitter.com/ChumaMike)
 - 💼 LinkedIn: [linkedin.com/in/ChumaMike](https://linkedin.com/in/ChumaMike)
 - 💻 Portfolio: in progress
 
