@@ -15,23 +15,12 @@
 
 ---
 
-### 📈 GitHub Stats
+### 💼 Tech Stack
+- 👨‍💻 Languages: Python, Java, JavaScript, SQL
+- ⚙️ Frameworks: Flask, Android SDK, Twilio
+- 🧰 Tools: Git, GitHub, Linux, VS Code
+- 🎨 Learning: Flutter, React, Firebase
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChumaMike&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChumaMike&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 📊 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChumaMike&theme=dracula" alt="Activity Graph" />
-</p>
-
----
 
 ### 🧰 Languages & Tools
 
