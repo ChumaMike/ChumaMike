@@ -8,7 +8,7 @@
 - 🔭 Currently working on: AI, bots and community apps  
 - 🌱 Learning Flask, Android Dev, and AI tools  
 - 🎯 Passionate about solving real African challenges with tech  
-- ⚡ Fun fact: I skate when I’m not coding 🛹
+- ⚡ Fun fact: I shred when I’m not coding 🛹
 
 ---
 
