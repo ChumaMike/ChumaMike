@@ -31,7 +31,7 @@
 ### 📫 Reach Me
 
 - 💼 LinkedIn: [linkedin.com/in/ChumaMike](https://linkedin.com/in/ChumaMike)
-- 💻 Portfolio: in progress
+- 💻 Portfolio: Coming soon!
 
 ---
 
