@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <h1 align="center">Hey there 👋, I'm ChumaMike</h1>
 <p align="center">🚀 Turning ideas into code | 🔧 Python & Java enthusiast | 💬 Building bots, apps, and dreams</p>
 
