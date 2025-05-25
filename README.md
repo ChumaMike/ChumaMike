@@ -35,7 +35,7 @@
 <p align="center">"Code like a rebel, build like a legend." 💻🔥</p>
 
 
-## 🐍 My GitHub Contribution Snake
+## 🐍 Thank you for visiting ny page, seeya!
 
 ![GitHub Snake dark](https://raw.githubusercontent.com/yyle88/yyle88/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
