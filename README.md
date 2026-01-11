@@ -34,21 +34,15 @@
 
 ---
 
-## 📊 Engineering Activity & Metrics
+## 📈 Engineering Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ChumaMike&theme=tokyonight&hide_border=true" />
-</p>
+- Consistent, daily Git usage
+- Backend & systems-focused development
+- Emphasis on clean architecture and documentation
+- Active learning through real projects and iteration
 
+> GitHub contribution graph reflects ongoing consistency and growth.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChumaMike&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChumaMike&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 
 ---
