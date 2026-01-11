@@ -37,25 +37,19 @@
 ## 📊 Engineering Activity & Metrics
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ChumaMike&theme=tokyonight&hide_border=true&background=0D1117"
-    width="520"
-  />
+  <img src="https://streak-stats.demolab.com?user=ChumaMike&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ChumaMike&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117"
-    width="420"
-  />
-</p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChumaMike&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
-    width="420"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChumaMike&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChumaMike&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
