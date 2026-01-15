@@ -40,7 +40,7 @@
 - Active learning through real projects and iteration
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ChumaMeyiswa&theme=shadow_blue&hide_border=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ChumaMeyiswa&theme=github-dark-blue&hide_border=true" />
 </p>
 
 
