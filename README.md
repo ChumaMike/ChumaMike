@@ -43,6 +43,15 @@
   <img src="https://ghchart.rshah.org/ChumaMike" alt="GitHub Contribution Chart" />
 </p>
 
+<p align="center">
+  <b>CONSISTENT BACKEND DEVELOPMENT • REAL PROJECTS • DAILY IMPROVEMENT</b>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/ChumaMike" />
+</p>
+
+
 
 ---
 
