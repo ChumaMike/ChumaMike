@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Chuma Meyiswa 
+  Hi, I'm Chuma Meyiswa
   <img src="https://media.giphy.com/media/hvRJCLFzcasr848Hz2/giphy.gif" width="28"/>
 </h1>
 
@@ -36,13 +36,22 @@
 
 ## 📈 Engineering Activity
 
-- Backend & systems-focused development
-- Active learning through real projects and iteration
+- Backend & systems-focused development  
+- Active learning through real-world projects and iteration  
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ChumaMeyiswa&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChumaMike&show_icons=true&include_all_commits=true&count_private=true&theme=github-dark-blue&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ChumaMike&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChumaMike&layout=compact&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
