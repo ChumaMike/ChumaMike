@@ -40,16 +40,9 @@
 - Active learning through real-world projects and iteration  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChumaMike&show_icons=true&theme=github-dark-blue&hide_border=true" />
+  <img src="https://ghchart.rshah.org/ChumaMike" alt="GitHub Contribution Chart" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ChumaMike&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChumaMike&layout=compact&theme=github-dark-blue&hide_border=true" />
-</p>
 
 ---
 
