@@ -40,7 +40,7 @@
 - Active learning through real-world projects and iteration  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChumaMike&show_icons=true&include_all_commits=true&count_private=true&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChumaMike&show_icons=true&theme=github-dark-blue&hide_border=true" />
 </p>
 
 <p align="center">
