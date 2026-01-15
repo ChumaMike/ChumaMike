@@ -39,10 +39,10 @@
 - Backend & systems-focused development
 - Active learning through real projects and iteration
 
-(https://camo.githubusercontent.com/5bb1ea54e03850c169fc6cd5bc442923c1ec378acf7797c41b80c5f0b815be3d/68747470733a2f2f6e69727a616b2d73747265616b2d73746174732e76657263656c2e6170702f3f757365723d4361646561754d267468656d653d736861646f775f626c756526686964655f626f726465723d66616c7365)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ChumaMeyiswa&theme=shadow_blue&hide_border=false" />
+</p>
 
-
----
 
 ## 🌐 Connect With Me
 
