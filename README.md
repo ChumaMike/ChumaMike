@@ -11,7 +11,7 @@
   <p>
     I operate at the intersection of <b>Distributed Systems</b> and <b>Emerging Tech</b>.<br> 
     Currently orchestrating architectural integrity as a <b>Technical Mentor at WeThinkCode_</b><br>
-    and expanding into Big Data Pipelines as a Fellow at <b>Afrika Tikkun (FMTALI)</b>.
+    and engineering scalable digital solutions as an <b>Independent Remote Developer</b>.
   </p>
   
   <a href="https://chumamike.github.io/">
