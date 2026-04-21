@@ -1,24 +1,34 @@
 <div align="center">
-  <h1 align="center">Chuma (Mike) Meyiswa</h1>
-  <h3 align="center">Backend Engineer | Systems Architect | Technical Mentor</h3>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Architecting+Scalable+Backend+Systems;Building+Autonomous+AI+Agents;Developing+Decentralized+Web3+Protocols;Mentoring+Next-Gen+Engineers" />
+  <h1>Chuma (Mike) Meyiswa</h1>
+  <h3>Backend Engineer · Systems Architect · AI Agent Builder</h3>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=64FFDA&center=true&vCenter=true&width=700&lines=Building+for+South+African+townships;Shipping+production+systems+for+real+clients;Designing+autonomous+AI+agents;Mentoring+engineers+at+WeThinkCode_" />
 </div>
 
 <br/>
 
 <div align="center">
   <p>
-    I operate at the intersection of <b>Distributed Systems</b> and <b>Emerging Tech</b>.<br> 
-    Currently orchestrating architectural integrity as a <b>Technical Mentor at WeThinkCode_</b><br>
-    and engineering scalable digital solutions as an <b>Remote Developer</b>.
+    I build software that ships — from enterprise fintech to AI agents to production sites<br/>
+    serving businesses across Soweto, Dube, and Johannesburg.
   </p>
-  
+
+  <p>
+    Technical Mentor at <b>WeThinkCode_</b> · Founder at <b>Skhokho Labs</b><br/>
+    Based in South Africa · Remote globally
+  </p>
+
   <a href="https://chumamike.github.io/">
-    <img src="https://img.shields.io/badge/View_Portfolio-0a192f?style=for-the-badge&logo=github&logoColor=64ffda&labelColor=112240" />
+    <img src="https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=github&logoColor=64ffda&labelColor=112240" />
   </a>
   <a href="https://linkedin.com/in/ChumaMike">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chuma@skhokholabs.xyz">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://skhokholabs.xyz">
+    <img src="https://img.shields.io/badge/Skhokho_Labs-64ffda?style=for-the-badge&logo=rocket&logoColor=0a192f" />
   </a>
 </div>
 
@@ -30,9 +40,9 @@
 
 <div align="center">
 
-| **Core Languages** | **Backend & Systems** | **Emerging Tech** | **DevOps & Tools** |
-|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=java,python,c&theme=dark" /> | <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,postgres,mysql&theme=dark" /> | <img src="https://skillicons.dev/icons?i=solidity,tensorflow,pytorch&theme=dark" /> | <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,bash&theme=dark" /> |
+| **Languages** | **Backend & Data** | **AI / Agents** | **Web3** | **DevOps** |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=java,python,typescript,c&theme=dark" /> | <img src="https://skillicons.dev/icons?i=spring,fastapi,flask,nextjs,postgres,supabase&theme=dark" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" /> | <img src="https://skillicons.dev/icons?i=solidity&theme=dark" /> | <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,bash&theme=dark" /> |
 
 </div>
 
@@ -40,31 +50,47 @@
 
 ## 🏗️ Selected Architectures
 
-| Project | Tech Stack | Description |
+| Project | Stack | What it does |
 | :--- | :--- | :--- |
-| **CivicNerve** | Python, AI Agents | Autonomous agent system bridging citizens and governance via LLMs. |
-| **Legacy Lazarus** | Solidity, Web3 | Decentralized digital inheritance protocol using Smart Contracts. |
-| **Sentinel Ledger** | Java Spring, PostgreSQL | Enterprise-grade banking simulation with ACID-compliant transactions. |
-| **Macalaa AI** | Python, LLMs | Career strategy agent simulating technical interviews and portfolio optimization. |
+| **[Sentinel Ledger](https://github.com/ChumaMike/sentinel-ledger)** | Java Spring · Python FastAPI · React | Double-entry ledger with real-time AI fraud monitoring and a 'God Mode' admin console |
+| **[Skhokho LifeOS](https://github.com/ChumaMike/Skhokho)** | Flask · SQLAlchemy · Gemini | Modular Life Operating System — finance, goals, CRM, encrypted journaling |
+| **[CivicNerve Agent](https://github.com/ChumaMike/CivicNerve-agent)** | Python · LLMs | Autonomous agent for sustainable cities — detects issues, writes work orders, schedules crews |
+| **[LinkUpGeo](https://github.com/ChumaMike/LinkUpGeo)** | Flask · Twilio · Geospatial | Hyperlocal marketplace — low-data WhatsApp AI bot connecting townships to services |
+| **[Chain Quest](https://github.com/ChumaMike/chain-quest)** | React · Phaser 3 · Solidity · Sepolia | Web3 education RPG — battle bosses to learn blockchain, earn real CQT tokens |
+| **[Legacy Lazarus](https://github.com/ChumaMike/LegacyLazarus-agent)** | Python · LangChain · IBM Granite | Agent that refactors cursed legacy code into clean, documented, Mellea-compliant code |
+
+---
+
+## 🚀 Shipped for Real Clients
+
+Production sites serving active businesses — not side-projects-for-resume:
+
+| Client | Project | Stack |
+| :--- | :--- | :--- |
+| Umfundo Kitchens | [umfundo-kitchens](https://github.com/ChumaMike/umfundo-kitchens) — premium kitchens & interiors | JavaScript · Vite |
+| Isiqalo Car Wash | [isiqalo-car-wash](https://github.com/ChumaMike/isiqalo-car-wash) — Dube, Soweto | HTML/CSS/JS |
+| Muthwa Car Wash | [muthwa-carwash](https://github.com/ChumaMike/muthwa-carwash) — Soweto | TypeScript · React |
+| Meyiswa Training Academy | [meyiswa-training-academy](https://github.com/ChumaMike/meyiswa-training-academy) — SETA-accredited | Next.js |
+| Engadini Kota Shop | [engadini](https://github.com/ChumaMike/engadini) — PWA ordering | JavaScript · Firebase |
+| Skhokho Lead System | [skhokho-lead-system](https://github.com/ChumaMike/skhokho-lead-system) | TypeScript |
 
 ---
 
 ## 📊 Engineering Metrics
 
 <div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ChumaMike&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=bd93f9&text_color=ccd6f6" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChumaMike&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=bd93f9&text_color=ccd6f6" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChumaMike&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=bd93f9&text_color=ccd6f6" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChumaMike&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=64ffda&icon_color=bd93f9&text_color=ccd6f6" height="180" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/64ffda/ChumaMike" alt="ChumaMike's Github chart" />
+  <img src="https://ghchart.rshah.org/64ffda/ChumaMike" alt="contribution graph" />
 </div>
 
-<br>
+<br/>
 
 <div align="center">
-  <i>"I don't just write code; I build systems that survive."</i>
+  <i>"I don't just write code. I build systems that survive."</i>
 </div>
