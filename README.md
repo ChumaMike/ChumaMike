@@ -9,11 +9,12 @@
 
 **Software Engineer (Backend) · AI Agents & Automation · Blockchain / Web3**
 
-Founder at **Skhokho Labs** · Technical Mentor at **WeThinkCode_** · Soweto, Johannesburg
+Associate Founder at **SG Data Int** · Founder at **Skhokho Labs** · Technical Mentor at **WeThinkCode_** · Soweto, Johannesburg
 
 <a href="https://chumamike.github.io"><img src="https://img.shields.io/badge/Portfolio-chumamike.github.io-0a0f1e?style=for-the-badge&logo=githubpages&logoColor=64ffda" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/chuma-mike"><img src="https://img.shields.io/badge/LinkedIn-chuma--mike-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:nmeyiswa@gmail.com"><img src="https://img.shields.io/badge/Email-nmeyiswa%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://sgdataint.co.za"><img src="https://img.shields.io/badge/SG_Data_Int-sgdataint.co.za-4c9eff?style=for-the-badge&logo=buildkite&logoColor=white" alt="SG Data Int"></a>
 <a href="https://skhokholabs.xyz"><img src="https://img.shields.io/badge/Skhokho_Labs-skhokholabs.xyz-64ffda?style=for-the-badge&logo=rocket&logoColor=0a0f1e" alt="Skhokho Labs"></a>
 
 </div>
@@ -30,7 +31,7 @@ I build backend systems where software is allowed to **propose** but never to **
 | :--- | :--- | :--- |
 | **[BonaBlock](https://bonablock.vercel.app)** | Community reports on broken school infrastructure, with evidence digests anchored to Avalanche. A repair stays `repair_claimed` until an *independent* reviewer marks it `verified`; the `BonaRegistry` contract refuses a school admin who tries. Ships with [BonaBlock Verify](https://bona-verify.vercel.app), a standalone checker. | Live · Nov 2026 |
 | **[Gcina](https://github.com/ChumaMike/gcina)** | An AI accounts-payable agent that pays suppliers on the XRP Ledger inside owner-set limits it cannot change. The agent initiates; a policy co-signer and XRPL's multi-sign rule decide. Fooled by a fake "new banking details" invoice? It still can't pay on its own. | Testnet · [dashboard](https://gcina.vercel.app) |
-| **[Skhokho](https://skhokho.sgdataint.co.za)** | A shopfront, a till and a loyalty card in one phone for township businesses, plus the cash-flow record a lender can read. Live with real businesses in Dube, Soweto. | Live · [hackathon snapshot](https://github.com/ChumaMike/skhokho-hackathon-2026) |
+| **[Skhokho](https://skhokho.sgdataint.co.za)** | A shopfront, a till and a loyalty card in one phone for township businesses, plus the cash-flow record a lender can read. Live with real businesses in Dube, Soweto. Built at [SG Data Int](https://sgdataint.co.za), where I am Associate Founder. | Live · [hackathon snapshot](https://github.com/ChumaMike/skhokho-hackathon-2026) |
 
 <br>
 
@@ -42,7 +43,7 @@ Seven shipped entries in one year, each one deployed and demoable, not slideware
 | :--- | :--- | :--- | :--- |
 | Nov 2026 | UJ BACISS Hackathon · Avalanche | [BonaBlock](https://bonablock.vercel.app) | A report is not protection. A repair claim is not verification. |
 | Nov 2026 | W3Node Node Engine · Agentic Finance (Ripple/XRPL) | [Gcina](https://github.com/ChumaMike/gcina) | The agent pays; the ledger keeps. Two keys, one of them never the agent's. |
-| Nov 2026 | NEMISA Digital Innovation Discothon | [Shay' iPost](https://shayipost.vercel.app) | Voice note in, three ready-to-share posts out, every tap counted. |
+| Nov 2026 | NEMISA Digital Innovation Discothon | [Shay' iPost](https://shayipost.vercel.app) | Voice note in, three ready-to-share posts out, every tap counted. With SG Data Int. |
 | Oct 2026 | HackSecure 2026 · SMME Cyber Protection | [Mgadi](https://github.com/ChumaMike/Mgadi) | The first hour after a payment-diversion scam, one step at a time. |
 | Oct 2026 | FNB App of the Year · Youth entrepreneurship | [Skhokho](https://github.com/ChumaMike/skhokho-hackathon-2026) | Four-week sales forecast and a lender-readable statement from the till's own data. |
 | Oct 2026 | Gauteng Youth Tech Expo · G12 Failing infrastructure | [SafeGuard SA](https://github.com/ChumaMike/SafeGuard) | "Made safe" and "fixed" are two outcomes. Track both, with a protection clock. |
@@ -95,7 +96,8 @@ Also: Drizzle · Playwright · vitest · Twilio / WhatsApp · Firebase
 
 ## Roles
 
-- **Founder, Skhokho Labs** · 2026 to present. Products and client builds for South African small businesses.
+- **Associate Founder, SG Data Int** · May 2026 to present. The Skhokho platform (skhokho.sgdataint.co.za), Shay' iPost and client work, alongside the founder, who is also my mentor. Company site: [sgdataint.co.za](https://sgdataint.co.za).
+- **Founder, Skhokho Labs** · 2026 to present. My own label for independent products, small-business sites and hackathon builds.
 - **Technical Mentor & Code Reviewer, WeThinkCode_** · Sep 2025 to present. Java and Python systems design, code review, mentoring.
 - **Software Engineering Fellow, WeThinkCode_** · Sep 2024 to Dec 2025. Occupational Certificate: Software Engineer (NQF 6), Systems Integration.
 - **Graphic Designer, Meyiswa Training Academy** · Jul 2022 to Jan 2024. Course material, brochures and brand collateral under deadline.
