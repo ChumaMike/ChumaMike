@@ -97,7 +97,7 @@ Also: Drizzle · Playwright · vitest · Twilio / WhatsApp · Firebase
 ## Roles
 
 - **Associate Founder, SG Data Int** · May 2026 to present. The Skhokho platform (skhokho.sgdataint.co.za), Shay' iPost and client work, alongside the founder, who is also my mentor. Company site: [sgdataint.co.za](https://sgdataint.co.za).
-- **Founder, Skhokho Labs** · 2026 to present. My own label for independent products, small-business sites and hackathon builds.
+- **Founder, Skhokho Labs** · Mar 2026 to present. Founded as my own label for independent products, small-business sites and hackathon builds; its first platform, Skhokho, moved under SG Data Int in May 2026.
 - **Technical Mentor & Code Reviewer, WeThinkCode_** · Sep 2025 to present. Java and Python systems design, code review, mentoring.
 - **Software Engineering Fellow, WeThinkCode_** · Sep 2024 to Dec 2025. Occupational Certificate: Software Engineer (NQF 6), Systems Integration.
 - **Graphic Designer, Meyiswa Training Academy** · Jul 2022 to Jan 2024. Course material, brochures and brand collateral under deadline.
