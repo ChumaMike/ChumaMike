@@ -1,15 +1,15 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=64FFDA&center=true&vCenter=true&width=720&lines=Backend+engineer.+AI+agents.+Blockchain.;An+agent+proposes%2C+an+independent+check+decides.;Building+for+South+African+small+business+and+civic+life.;Technical+Mentor+at+WeThinkCode_">
-  <img alt="Backend engineer. AI agents. Blockchain." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=0F766E&center=true&vCenter=true&width=720&lines=Backend+engineer.+AI+agents.+Blockchain.;An+agent+proposes%2C+an+independent+check+decides.;Building+for+South+African+small+business+and+civic+life.;Technical+Mentor+at+WeThinkCode_">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=64FFDA&center=true&vCenter=true&width=720&lines=Backend+engineer.+AI+agents.+Blockchain.;An+agent+proposes%2C+an+independent+check+decides.;Building+for+South+African+small+business+and+civic+life.;Winner%2C+Microsoft+Copilot+Studio+Agents+Hackathon+2026">
+  <img alt="Backend engineer. AI agents. Blockchain." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=0F766E&center=true&vCenter=true&width=720&lines=Backend+engineer.+AI+agents.+Blockchain.;An+agent+proposes%2C+an+independent+check+decides.;Building+for+South+African+small+business+and+civic+life.;Winner%2C+Microsoft+Copilot+Studio+Agents+Hackathon+2026">
 </picture>
 
 # Chuma (Mike) Meyiswa
 
 **Software Engineer (Backend) · AI Agents & Automation · Blockchain / Web3**
 
-Associate Founder at **SG Data Int** · Founder at **Skhokho Labs** · Technical Mentor at **WeThinkCode_** · Soweto, Johannesburg
+Associate Founder at **SG Data Int** · Founder at **Skhokho Labs** · WeThinkCode_ graduate · Soweto, Johannesburg
 
 <a href="https://chumamike.github.io"><img src="https://img.shields.io/badge/Portfolio-chumamike.github.io-0a0f1e?style=for-the-badge&logo=githubpages&logoColor=64ffda" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/chuma-mike"><img src="https://img.shields.io/badge/LinkedIn-chuma--mike-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -37,7 +37,7 @@ I build backend systems where software is allowed to **propose** but never to **
 
 ## 2026 hackathon builds
 
-Seven shipped entries in one year, each one deployed and demoable, not slideware.
+Seven shipped entries in one year, each one deployed and demoable, not slideware. One of them won.
 
 | When | Event · Track | Build | The idea in one line |
 | :--- | :--- | :--- | :--- |
@@ -47,7 +47,7 @@ Seven shipped entries in one year, each one deployed and demoable, not slideware
 | Oct 2026 | HackSecure 2026 · SMME Cyber Protection | [Mgadi](https://github.com/ChumaMike/Mgadi) | The first hour after a payment-diversion scam, one step at a time. |
 | Oct 2026 | FNB App of the Year · Youth entrepreneurship | [Skhokho](https://github.com/ChumaMike/skhokho-hackathon-2026) | Four-week sales forecast and a lender-readable statement from the till's own data. |
 | Oct 2026 | Gauteng Youth Tech Expo · G12 Failing infrastructure | [SafeGuard SA](https://github.com/ChumaMike/SafeGuard) | "Made safe" and "fixed" are two outcomes. Track both, with a protection clock. |
-| Jul 2026 | Microsoft Copilot Studio Agents Hackathon | [GridWise / G13-Agentic](https://github.com/ChumaMike/G13-Agentic) | Orchestrator, household and government agents over real energy data. |
+| Jul 2026 | Microsoft Copilot Studio Agents Hackathon · 🏆 **Winner** | [GridWise / G13-Agentic](https://github.com/ChumaMike/G13-Agentic) | Orchestrator, household and government agents over real energy data. |
 
 <br>
 
@@ -98,7 +98,7 @@ Also: Drizzle · Playwright · vitest · Twilio / WhatsApp · Firebase
 
 - **Associate Founder, SG Data Int** · May 2026 to present. The Skhokho platform (skhokho.sgdataint.co.za), Shay' iPost and client work, alongside the founder, who is also my mentor. Company site: [sgdataint.co.za](https://sgdataint.co.za).
 - **Founder, Skhokho Labs** · Mar 2026 to present. Founded as my own label for independent products, small-business sites and hackathon builds; its first platform, Skhokho, moved under SG Data Int in May 2026.
-- **Technical Mentor & Code Reviewer, WeThinkCode_** · Sep 2025 to present. Java and Python systems design, code review, mentoring.
+- **Technical Mentor & Code Reviewer, WeThinkCode_** · Sep 2025 to May 2026. Java and Python code review, debugging and architecture mentoring, workshops on CI/CD and backend integration.
 - **Software Engineering Fellow, WeThinkCode_** · Sep 2024 to Dec 2025. Occupational Certificate: Software Engineer (NQF 6), Systems Integration.
 - **Graphic Designer, Meyiswa Training Academy** · Jul 2022 to Jan 2024. Course material, brochures and brand collateral under deadline.
 - **Africa Blockchain Club** · member in 2026, returning.
